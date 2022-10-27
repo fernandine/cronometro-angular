@@ -1,0 +1,22 @@
+:host {
+  display: block;
+  text-align: center;
+}
+div~div {
+  margin-top: 4px;
+}
+.timeLeft {
+  font-size: 2rem;
+}
+button~button {
+  margin-left: 4px;
+}
+.phase0 {
+color: black
+}
+.phase1 {
+  color: blueviolet;
+}
+.phase2 {
+  color: rgb(91, 129, 16);
+}
